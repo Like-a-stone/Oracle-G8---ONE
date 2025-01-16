@@ -19,3 +19,4 @@ if (idade >= 18){
 } else {
     alert("Ainda faltam "+ (18 - idade) + " anos para tirar a habilitação T_T");
 }
+
