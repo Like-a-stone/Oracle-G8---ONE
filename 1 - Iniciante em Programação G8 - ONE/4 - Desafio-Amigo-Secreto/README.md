@@ -1,7 +1,7 @@
 <h1 align="center"> Amigo Secreto </h1>
 
 <p align="center">
-  <img src="assets/ladingpage.png.png" alt="Logo do Projeto Amigo Secreto" width="1000">
+  <img src="assets/ladingpage.png" alt="Logo do Projeto Amigo Secreto" width="1000">
 </p>
 
 <p align="center">
