@@ -1,7 +1,11 @@
 A documentação da linguagem de programação JavaScript
-
 https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/What_is_JavaScript
 
 Guia de JavaScript: o que é e como aprender a linguagem mais popular do mundo?
-
 https://www.alura.com.br/artigos/javascript
+
+Lógica de Programação Crie seus primeiros programas usando Javascript e HTML
+https://www.casadocodigo.com.br/products/livro-programacao?_pos=1&_sid=4661f8240&_ss=r
+Livro: "Estruturas de Dados e Algoritmos com JavaScript"
+https://www.google.com.br/books/edition/Estruturas_de_dados_e_algoritmos_com_Jav/0nWKDwAAQBAJ?hl=pt-
+BR&gbpv=1&dq=estrutura+de+dados+javascript&printsec=frontcover
