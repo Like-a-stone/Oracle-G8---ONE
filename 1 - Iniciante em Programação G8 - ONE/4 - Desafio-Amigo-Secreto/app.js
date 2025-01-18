@@ -38,3 +38,9 @@ function sortearAmigo(){
 function mostrarResultado (amigoAleatorio){
     resultado.innerHTML = amigoAleatorio;
 }
+
+function recomecarSorteio (){
+    listaDeAmigosEscolhidos = [];
+    listaAmigos.innerHTML = "";
+    resultado.innerHTML = "";
+}
