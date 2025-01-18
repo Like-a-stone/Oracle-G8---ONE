@@ -1,7 +1,7 @@
 <h1 align="center"> Amigo Secreto </h1>
 
 <p align="center">
-  <img src="assets/amigo-secreto.png" alt="Logo do Projeto Amigo Secreto" width="200">
+  <img src="assets/ladingpage.png.png" alt="Logo do Projeto Amigo Secreto" width="1000">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Ideal para grupos de amigos, famílias ou colegas de trabalho, o projeto foi des
 
 ## 📁 Acesso ao Projeto
 
-Você pode acessar o código fonte do projeto clicando [aqui](https://github.com/seu-usuario/amigo-secreto).
+Você pode acessar o código fonte do projeto clicando [aqui](https://github.com/Like-a-stone/Oracle-G8---ONE/tree/main/1%20-%20Iniciante%20em%20Programa%C3%A7%C3%A3o%20G8%20-%20ONE/4%20-%20Desafio-Amigo-Secreto).
 
 Para baixar e rodar o projeto localmente:
 1. Clone o repositório:
